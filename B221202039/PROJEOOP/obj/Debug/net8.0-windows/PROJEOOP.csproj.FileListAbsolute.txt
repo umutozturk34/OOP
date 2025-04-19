@@ -1,0 +1,17 @@
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.Properties.Resources.resources
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.csproj.GenerateResource.cache
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.AssemblyInfoInputs.cache
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.AssemblyInfo.cs
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.csproj.CoreCompileInputs.cache
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\bin\Debug\net8.0-windows\PROJEOOP.exe
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\bin\Debug\net8.0-windows\PROJEOOP.deps.json
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\bin\Debug\net8.0-windows\PROJEOOP.runtimeconfig.json
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\bin\Debug\net8.0-windows\PROJEOOP.dll
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\bin\Debug\net8.0-windows\PROJEOOP.pdb
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.dll
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\refint\PROJEOOP.dll
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.pdb
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.genruntimeconfig.cache
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\ref\PROJEOOP.dll
+C:\Users\uttol\source\repos\PROJEOOP\PROJEOOP\obj\Debug\net8.0-windows\PROJEOOP.Form1.resources
