@@ -1,0 +1,1 @@
+This is a simple C# Windows Forms application that allows users to draw and rotate regular polygons. The application provides a graphical interface to input polygon properties and visualize the shape dynamically on a PictureBox.
